@@ -1,0 +1,8 @@
+:root {
+            --black: #000000;
+            --oxford-blue: #14213d;
+            --orange: #f77f00;
+            --platinum: #e5e5e5;
+            --white: #ffffff;
+        }
+(Black, ~ Oxford Blue, ~ Orange (web), ~ Platinum, White)
